@@ -1,0 +1,6 @@
+#ifndef TEAENGINE_LIBRARY_H
+#define TEAENGINE_LIBRARY_H
+
+void hello();
+
+#endif //TEAENGINE_LIBRARY_H
