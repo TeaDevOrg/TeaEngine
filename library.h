@@ -1,6 +1,6 @@
 #ifndef TEAENGINE_LIBRARY_H
 #define TEAENGINE_LIBRARY_H
 
-int main();
+void callWindow();
 
 #endif //TEAENGINE_LIBRARY_H
